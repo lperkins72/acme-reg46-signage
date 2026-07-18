@@ -35,14 +35,14 @@ const APP_SHELL = [
   "data/footer.json",
   "data/primaryending.json",
   "data/sync.json",
-  "regions/reg01/data/primary-assets.json",
-  "regions/reg01/data/primary.json",
-  "regions/reg01/data/footer.json",
-  "regions/reg01/data/primaryending.json",
-  "regions/reg01/assets/primary/manifest.json",
-  "regions/reg01/assets/footer/manifest.json",
-  "devices/reg01/index.html",
-  "devices/reg01/nuc-001.html"
+  "regions/reg46/data/primary-assets.json",
+  "regions/reg46/data/primary.json",
+  "regions/reg46/data/footer.json",
+  "regions/reg46/data/primaryending.json",
+  "regions/reg46/assets/primary/manifest.json",
+  "regions/reg46/assets/footer/manifest.json",
+  "devices/reg46/index.html",
+  "devices/reg46/nuc-001.html"
 ];
 
 const MEDIA_EXTENSIONS = new Set([
